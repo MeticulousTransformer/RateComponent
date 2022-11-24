@@ -1,0 +1,23 @@
+.circle{
+    height: 42px;
+    width: 42px;
+    border-radius: 360%;
+    background-color: #262E38;
+    color: #7C8798;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    border: none;
+}
+
+.rating{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 18px;
+}
+.circle:hover{
+    background-color: #FC7614;
+    color: #FFFF;
+}

@@ -1,0 +1,25 @@
+.Submit{
+    width: 279px;
+    height: 45px;
+    border-radius: 22.5px;
+    background-color: #FC7614;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 1.86667px;
+    border: none;
+}
+.Submit:hover{
+    background-color: #FFFFFF;
+    color: #FC7614;
+}
+
+@media(min-width:376px){
+    .Submit{
+        margin: auto;
+    }
+}

@@ -1,0 +1,18 @@
+.Placeholder{
+        background: linear-gradient(#232A34, #181E27);
+        width: 279px;
+        border-radius: 15px;
+        display: flex;
+        flex-direction: column;
+        padding: 24px;
+        gap: 24px;
+
+
+}
+@media(min-width:391px){
+      .Placeholder{
+        width: 300px;
+        height: 310px;
+        border-radius: 30px;
+      }
+}

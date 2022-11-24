@@ -1,0 +1,18 @@
+.circle{
+    height: 42px;
+    width: 42px;
+    background-color: #262E38;
+    border-radius: 360%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+}
+
+@media(min-width:376px){
+    .circle{
+        margin-left: 3px;
+    }
+}

@@ -1,0 +1,15 @@
+.App {
+  background-color: #131518;
+  width: 375px;
+  height: 667px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@media(min-width:391px){
+  .App{
+    width: 100%;
+    height: 646px;
+  }
+  
+}

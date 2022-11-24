@@ -1,0 +1,15 @@
+.Selected{
+    color: #FC7614;
+    background: #262E38;
+    border-radius: 22.5px;
+    width: 168px;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 5px;
+    margin-top: 17px;
+
+}
